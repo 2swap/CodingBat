@@ -1,1 +1,1 @@
-# CodingBat
+# GOLFED CodingBat solutions.
